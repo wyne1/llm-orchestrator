@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 # LLM Orchestrator
 
 LLM Orchestrator is a Python project that provides a unified interface for interacting with various Large Language Models (LLMs) such as OpenAI's GPT, Anthropic's Claude, and Google's Gemini. This project aims to simplify the process of integrating and switching between different LLM providers in your applications.
