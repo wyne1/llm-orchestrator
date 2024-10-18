@@ -28,6 +28,7 @@ factory.register_adapter("openai", lambda: OpenAIChatAdapter())
 factory.register_adapter("anthropic", lambda: AnthropicChatAdapter())
 factory.register_adapter("gemini", lambda: GeminiChatAdapter())
 
+
 @app.post('/chat')
 async def chat(request: Request):
     data = await request.json()

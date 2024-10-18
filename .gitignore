@@ -1,3 +1,38 @@
 *.pyc
 config/config.py
 .DS_Store
+*.ipynb
+*.ipynb_checkpoints
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled Python files
+__pycache__/
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Operating system files
+Thumbs.db
+*.rdb
