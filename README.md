@@ -1,6 +1,6 @@
-# LLM Adapters
+# LLM Orchestrator
 
-LLM Adapters is a Python project that provides a unified interface for interacting with various Large Language Models (LLMs) such as OpenAI's GPT, Anthropic's Claude, and Google's Gemini. This project aims to simplify the process of integrating and switching between different LLM providers in your applications.
+LLM Orchestrator is a Python project that provides a unified interface for interacting with various Large Language Models (LLMs) such as OpenAI's GPT, Anthropic's Claude, and Google's Gemini. This project aims to simplify the process of integrating and switching between different LLM providers in your applications.
 
 ## Features
 
@@ -14,8 +14,8 @@ LLM Adapters is a Python project that provides a unified interface for interacti
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/llm-adapters.git
-   cd llm-adapters
+   git clone https://github.com/wyne1/llm-orchestrator.git
+   cd llm-orchestrator
    ```
 
 2. Install the required dependencies:
